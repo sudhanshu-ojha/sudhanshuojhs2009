@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudhanshuojhs2009
 - 👀 I’m interested in Python, Full-Stack, Automation, Front-end technologies
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on any Python related projects
 - 📫 How to reach me - sudhanshuojha2009@gmail.com
 
